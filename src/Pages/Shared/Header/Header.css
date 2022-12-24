@@ -1,0 +1,12 @@
+.header-logo img {
+    width: 170px;
+}
+
+.nav-btn {
+    width: 124px;
+    padding: 10px;
+    color: white;
+    background-color: #f91944;
+    border: none;
+    border-radius: 20px;
+}

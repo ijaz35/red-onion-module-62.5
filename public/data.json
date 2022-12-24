@@ -1,0 +1,128 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Bagel and cream cheese",
+        "description": "How we dream about our future",
+        "price": 6.99,
+        "img": "https://i.ibb.co/p1tbs7R/breakfast1.png"
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "name": "Breakfast sandwich",
+        "description": "How we dream about our future",
+        "price": 9.99,
+        "img": "https://i.ibb.co/VQKnkRz/breakfast2.png"
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "name": "Eggs Benedict",
+        "description": "How we dream about our future",
+        "price": 10.99,
+        "img": "https://i.ibb.co/PzWzjcp/breakfast3.png"
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "name": "Eggs Benedict",
+        "description": "How we dream about our future",
+        "price": 8.99,
+        "img": "https://i.ibb.co/SxxvtT2/breakfast4.png"
+    },
+    {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "name": "Toast Croissant Fried Egg",
+        "description": "How we dream about our future",
+        "price": 19.99,
+        "img": "https://i.ibb.co/mCM5TTT/breakfast5.png"
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "name": "Full Breakfast Fried Egg Toast Brunch",
+        "description": "How we dream about our future",
+        "price": 3.99,
+        "img": "https://i.ibb.co/GHZPp8Q/breakfast6.png"
+    },
+    {
+        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+        "name": "Healthy Meal Plan",
+        "description": "How we dream about our future",
+        "price": 23.99,
+        "img": "https://i.ibb.co/5GBTQkc/lunch1.png"
+    },
+    {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "name": "Fried Chicken Bento",
+        "description": "How we dream about our future",
+        "price": 9.99,
+        "img": "https://i.ibb.co/72S44WL/lunch2.png"
+    },
+    {
+        "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+        "name": "Tarragon Rubbed Salmon",
+        "description": "How we dream about our future",
+        "price": 8.99,
+        "img": "https://i.ibb.co/CHHhM9k/lunch3.png"
+    },
+    {
+        "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+        "name": "Indian Launch",
+        "description": "How we dream about our future",
+        "price": 8.99,
+        "img": "https://i.ibb.co/Fgv1Zjr/lunch4.png"
+    },
+    {
+        "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
+        "name": "Beef Steak",
+        "description": "How we dream about our future",
+        "price": 15.99,
+        "img": "https://i.ibb.co/Ns56mns/lunch5.png"
+    },
+    {
+        "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
+        "name": "Honey Soy Glazed Salmon With Peppers",
+        "description": "How we dream about our future",
+        "price": 7.99,
+        "img": "https://i.ibb.co/XYSzJFF/lunch6.png"
+    },
+    {
+        "id": "b357e19b-4dd9-4fc7-b5c0-9ed5255464ba",
+        "name": "Salmon with Grapefruit and Lentil Salad",
+        "description": "How we dream about our future",
+        "price": 9.99,
+        "img": "https://i.ibb.co/9V7BfL5/dinner1.png"
+    },
+    {
+        "id": "e4220958-06d2-4d50-96fa-0163a563f43d",
+        "name": "Lemony Salmon Piccata",
+        "description": "How we dream about our future",
+        "price": 10.99,
+        "img": "https://i.ibb.co/h2YdTNQ/dinner2.png"
+    },
+    {
+        "id": "ae69f0e4-559c-4b24-8032-80b63f9b5073",
+        "name": "Pork Tenderloin with Quinoa Pilaf",
+        "description": "How we dream about our future",
+        "price": 12.99,
+        "img": "https://i.ibb.co/QfYNqqh/dinner3.png"
+    },
+    {
+        "id": "dbf7ab3f-b383-4d95-8ab7-f55fcf6fa5f2",
+        "name": "French fries with cheese",
+        "description": "How we dream about our future",
+        "price": 8.99,
+        "img": "https://i.ibb.co/Ryp2JBM/dinner4.png"
+    },
+    {
+        "id": "ed6a7ac3-7e67-4e3f-8461-bceb5178be42",
+        "name": "Garlic Butter Baked Salmon",
+        "description": "How we dream about our future",
+        "price": 6.99,
+        "img": "https://i.ibb.co/hynGFKr/dinner5.png"
+    },
+    {
+        "id": "fd52819a-cb78-4510-ad2f-c5bdd888ae78",
+        "name": "Baked Chicken",
+        "description": "How we dream about our future",
+        "price": 9.99,
+        "img": "https://i.ibb.co/YcPX2Pp/dinner6.png"
+    }
+]

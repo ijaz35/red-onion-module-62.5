@@ -1,0 +1,9 @@
+.foods-detail:hover {
+    border-radius: 10px;
+    box-shadow: 0 0 35px 25px #f1f1f1;
+}
+
+.add-btn {
+    background-color: #e9be53;
+    color: white;
+}

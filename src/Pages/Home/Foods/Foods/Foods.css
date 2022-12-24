@@ -1,0 +1,27 @@
+.food-link:focus {
+    color: red !important;
+}
+
+.food-link:focus::after {
+    content: ' ';
+    display: block;
+    height: 2px;
+    width: 30px;
+    background-color: red;
+    margin: 5px auto;
+}
+
+.checkout-btn {
+    width: 325px;
+    height: 48px;
+    background-color: #f91944;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+.combo-btn:first-child {
+    background-color: darkgoldenrod;
+}

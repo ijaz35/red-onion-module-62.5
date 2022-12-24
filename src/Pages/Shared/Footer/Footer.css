@@ -1,0 +1,24 @@
+.footer-container {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+}
+
+.footer-wrapper {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.footer-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.footer-left img {
+    width: 175px;
+}
+
+.footer-right li {
+    list-style-type: none;
+}

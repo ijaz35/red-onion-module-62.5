@@ -1,0 +1,26 @@
+.order-review {
+    background-color: #f5f5f5;
+    border-radius: 20px;
+}
+
+.order-review img {
+    width: 100px;
+    height: 100px;
+}
+
+.review-input {
+    width: 40px;
+    height: 30px;
+    background-color: white;
+    display: block;
+    border-radius: 25%;
+}
+
+.order-review-control button {
+    border: none;
+    background-color: #f5f5f5;
+    font-size: 30px;
+
+    ;
+
+}

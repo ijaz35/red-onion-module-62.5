@@ -1,0 +1,31 @@
+.order-container {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: 10px;
+}
+
+.form-title::after {
+    content: '';
+    display: block;
+    background-color: rgb(0, 0, 0);
+    width: 75%;
+    height: .5px;
+    margin: 20px 0 40px
+}
+
+input,
+textarea {
+    background-color: #f5f5f5;
+    border: 0;
+
+}
+
+@media only screen and (max-width: 767px) {
+    .order-container {
+        display: block;
+    }
+
+    .order-details {
+        margin-top: 60px
+    }
+}
